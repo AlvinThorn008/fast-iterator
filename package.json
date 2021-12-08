@@ -1,0 +1,14 @@
+{
+  "name": "fast-iterator",
+  "version": "1.0.0",
+  "description": "A simple alternate iterator implementation that avoids item allocations",
+  "main": "index.js",
+  "author": "Alvin Ogwu",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/AlvinThorn008/fast-iterator.git"
+  },
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
